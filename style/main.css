@@ -7,6 +7,7 @@
 
 .banner__new {
   position: absolute;
+  width: inherit;
 }
 .banner__new img {
   width: 100%;
